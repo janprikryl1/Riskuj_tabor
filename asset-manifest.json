@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/riskuj/static/css/main.62d3213f.css",
-    "main.js": "/riskuj/static/js/main.f62dc3ee.js",
-    "static/js/787.521e6d0b.chunk.js": "/riskuj/static/js/787.521e6d0b.chunk.js",
-    "index.html": "/riskuj/index.html",
-    "main.62d3213f.css.map": "/riskuj/static/css/main.62d3213f.css.map",
-    "main.f62dc3ee.js.map": "/riskuj/static/js/main.f62dc3ee.js.map",
-    "787.521e6d0b.chunk.js.map": "/riskuj/static/js/787.521e6d0b.chunk.js.map"
+    "main.css": "/Riskuj_tabor/static/css/main.62d3213f.css",
+    "main.js": "/Riskuj_tabor/static/js/main.c5f6225e.js",
+    "static/js/787.05a2091b.chunk.js": "/Riskuj_tabor/static/js/787.05a2091b.chunk.js",
+    "index.html": "/Riskuj_tabor/index.html",
+    "main.62d3213f.css.map": "/Riskuj_tabor/static/css/main.62d3213f.css.map",
+    "main.c5f6225e.js.map": "/Riskuj_tabor/static/js/main.c5f6225e.js.map",
+    "787.05a2091b.chunk.js.map": "/Riskuj_tabor/static/js/787.05a2091b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62d3213f.css",
-    "static/js/main.f62dc3ee.js"
+    "static/js/main.c5f6225e.js"
   ]
 }
