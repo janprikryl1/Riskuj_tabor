@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/app-riskuj/static/css/main.62d3213f.css",
-    "main.js": "/app-riskuj/static/js/main.ccd3d904.js",
-    "static/js/787.521e6d0b.chunk.js": "/app-riskuj/static/js/787.521e6d0b.chunk.js",
-    "index.html": "/app-riskuj/index.html",
-    "main.62d3213f.css.map": "/app-riskuj/static/css/main.62d3213f.css.map",
-    "main.ccd3d904.js.map": "/app-riskuj/static/js/main.ccd3d904.js.map",
-    "787.521e6d0b.chunk.js.map": "/app-riskuj/static/js/787.521e6d0b.chunk.js.map"
+    "main.css": "/riskuj/static/css/main.62d3213f.css",
+    "main.js": "/riskuj/static/js/main.f62dc3ee.js",
+    "static/js/787.521e6d0b.chunk.js": "/riskuj/static/js/787.521e6d0b.chunk.js",
+    "index.html": "/riskuj/index.html",
+    "main.62d3213f.css.map": "/riskuj/static/css/main.62d3213f.css.map",
+    "main.f62dc3ee.js.map": "/riskuj/static/js/main.f62dc3ee.js.map",
+    "787.521e6d0b.chunk.js.map": "/riskuj/static/js/787.521e6d0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62d3213f.css",
-    "static/js/main.ccd3d904.js"
+    "static/js/main.f62dc3ee.js"
   ]
 }
